@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*-coding:Utf-8 -*
 
+# -tc- commencer par développer le jeu en terminal, donc pas encore besoin de pygame
 import pygame
 from pygame.locals import color
 from app.position import Position
