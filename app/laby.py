@@ -1,3 +1,5 @@
+# -tc- Transférer le code ci-dessous dans une classe
+
 #class laby:
 #    pass
 
