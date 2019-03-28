@@ -1,3 +1,6 @@
+
+# -tc- Pour respecter la PEP8: Gardien, mais préféable de code en anglais, donc 
+# -tc- quelque chose comme Guardian
 class gardien:
     pass
 
