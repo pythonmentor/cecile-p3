@@ -1,3 +1,4 @@
+# -tc- Pour respecter la PEP8: MacGyver
 class macgyver:
     pass
 
