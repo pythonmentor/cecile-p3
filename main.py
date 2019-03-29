@@ -5,6 +5,7 @@
 import pygame
 from pygame.locals import color
 from app.position import Position
+# -tc- ces parenthèses lors des import ne sont à priori pas nécessaires
 from app.gardien import (
     gardien
 )
@@ -17,6 +18,7 @@ from app.macgyver import (
 from app.objets import (
     objets
 )
+# -tc- pourquoi importer pylint? Ce n'est pas un module qu'on a besoin d'importer. C'est un linter utilisé par ton éditeur.
 import pylint
 
 
